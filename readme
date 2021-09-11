@@ -1,1 +1,10 @@
+#WPF Motion Detector
+A motion detector app built using WPF and AForge.NET library
+
+##Overview
+
+Works in two modes:
+-Saving mode. Allows saving the image taken when the motion is detected in a desired location
+
+-Sound mode. Uses the system sounds to notify the user when a set amount of movement is detected
 
